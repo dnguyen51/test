@@ -1,4 +1,2 @@
-bca
-bca
+bcabca
 conflict
-123
