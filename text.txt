@@ -1,1 +1,6 @@
 abc
+<<<<<<< HEAD
+12345
+=======
+bcd
+>>>>>>> 8359a337b7964ed3decddcb5db2db6d7e6cfafe8
