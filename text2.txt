@@ -9,3 +9,4 @@ conflict
 -changes-
 conflict 2
 changes 2
+conflict 3
